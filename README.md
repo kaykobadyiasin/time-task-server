@@ -1,1 +1,1 @@
-server run: nodemon index.js
+#server run: nodemon index.js
